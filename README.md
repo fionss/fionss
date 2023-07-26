@@ -1,6 +1,9 @@
 ### Hi 👋🏾 I'm Fiona 
 
 <hr></hr>
+Software Developer
+<hr></hr>
+
 <!--
 **fionss/fionss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

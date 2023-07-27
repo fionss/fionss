@@ -1,13 +1,16 @@
+<main></main>
 ### Hi 👋🏾 I'm Fiona (She/Her)
 
 <hr></hr>
 👩🏾 Software Developer passionate about web technologies.
 <br></br>
 <hr></hr>
+</main>
+<section>
 <p>🌎Living in Ontario, Canada</p>
 <p>👩🏾‍💻 I'm coding in  HTML, CSS, Javascript, Vite, React, TailwindCSS, Nodejs, MongoDB.</p>
 <p>📚 I'm learning Nextjs and Typescript.</p>
-
+</section>
 <!--
 **fionss/fionss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

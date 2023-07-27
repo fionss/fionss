@@ -1,8 +1,7 @@
 <main>
 <h1>Hi 👋🏾 I'm Fiona (She/Her)</h1>
 
-<hr></hr>
-👩🏾 Software Developer passionate about web technologies.
+<p>👩🏾 Software Developer passionate about web technologies.</p>
 <br></br>
 <hr></hr>
 </main>

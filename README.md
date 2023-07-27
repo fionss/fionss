@@ -1,7 +1,7 @@
 ### Hi 👋🏾 I'm Fiona 
 
 <hr></hr>
-Software Developer
+👩🏾 Software Developer
 <hr></hr>
 👩🏾‍💻 Skills: HTML, CSS, Javascript, Vite, React, TailwindCSS, Nodejs, MongoDB.
 📚 Learning : Nextjs and Typescript.

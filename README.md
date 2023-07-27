@@ -3,7 +3,7 @@
 </main>
 <section>
 <p>👩🏾 Software Developer passionate about web technologies.</p>
-<hr></hr>
+<hr style = 100px></hr>
 <p>🌎 I'm based in Toronto, Canada.</p>
 <p>👩🏾‍💻 I'm coding in  HTML, CSS, Javascript, Vite, React, TailwindCSS, Nodejs, MongoDB.</p>
 <p>📚 I'm learning Nextjs and Typescript.</p>

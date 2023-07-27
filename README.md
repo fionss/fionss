@@ -4,7 +4,7 @@
 <hr></hr>
 </main>
 <section>
-<p>🌎Living in Ontario, Canada</p>
+<p>🌎 I'm based in Toronto.</p>
 <p>👩🏾‍💻 I'm coding in  HTML, CSS, Javascript, Vite, React, TailwindCSS, Nodejs, MongoDB.</p>
 <p>📚 I'm learning Nextjs and Typescript.</p>
 </section>

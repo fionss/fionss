@@ -3,6 +3,8 @@
 <hr></hr>
 Software Developer
 <hr></hr>
+👩🏾‍💻 Skills: HTML, CSS, Javascript, Vite, React, TailwindCSS, Nodejs, MongoDB.
+📚 Learning : Nextjs and Typescript.
 
 <!--
 **fionss/fionss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

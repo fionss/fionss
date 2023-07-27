@@ -1,7 +1,7 @@
 ### Hi 👋🏾 I'm Fiona (She/Her)
 
 <hr></hr>
-👩🏾 Software Developer
+👩🏾 Software Developer passionate about web technologies.
 <br></br>
 <hr></hr>
 <p>🌎Living in Ontario, Canada</p>

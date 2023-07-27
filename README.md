@@ -1,4 +1,4 @@
-<main></main>
+<main>
 ### Hi 👋🏾 I'm Fiona (She/Her)
 
 <hr></hr>

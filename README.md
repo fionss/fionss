@@ -1,4 +1,4 @@
-### Hi 👋🏾 I'm Fiona 
+### Hi 👋🏾 I'm Fiona (She/Her)
 
 <hr></hr>
 👩🏾 Software Developer

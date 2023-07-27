@@ -2,6 +2,7 @@
 
 <hr></hr>
 👩🏾 Software Developer
+<br></br>
 <hr></hr>
 👩🏾‍💻 Skills: HTML, CSS, Javascript, Vite, React, TailwindCSS, Nodejs, MongoDB.
 📚 Learning : Nextjs and Typescript.

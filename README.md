@@ -4,9 +4,9 @@
 👩🏾 Software Developer
 <br></br>
 <hr></hr>
-🌎Living in Ontario, Canada
-👩🏾‍💻 I'm coding in  HTML, CSS, Javascript, Vite, React, TailwindCSS, Nodejs, MongoDB.
-📚 I'm learning Nextjs and Typescript.
+<p>🌎Living in Ontario, Canada</p>
+<p>👩🏾‍💻 I'm coding in  HTML, CSS, Javascript, Vite, React, TailwindCSS, Nodejs, MongoDB.</p>
+<p>📚 I'm learning Nextjs and Typescript.</p>
 
 <!--
 **fionss/fionss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

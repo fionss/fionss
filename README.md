@@ -1,9 +1,9 @@
 <main>
 <h1>Hi 👋🏾 I'm Fiona (She/Her)</h1>
+>section>
 <p>👩🏾 Software Developer passionate about web technologies.</p>
 <hr></hr>
 </main>
-<section>
 <p>🌎 I'm based in Toronto, Canada.</p>
 <p>👩🏾‍💻 I'm coding in  HTML, CSS, Javascript, Vite, React, TailwindCSS, Nodejs, MongoDB.</p>
 <p>📚 I'm learning Nextjs and Typescript.</p>

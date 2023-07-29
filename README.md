@@ -5,8 +5,8 @@
 <p>👩🏾 I'm a software Developer passionate about web technologies.</p>
 <p>🌎 I'm based in Toronto, Canada.</p>
 <p>👩🏾‍💻 I'm coding in  HTML, CSS, Javascript, Vite, React, TailwindCSS, Express, Nodejs, MongoDB.</p>
-<p>📚 I'm currently learning Nextjs</p>
-<p>💌 You can reach me <a href="https://twitter.com/Fionnss">@fionnss</a> on twitter. Or <a href="mailto:fiona.attah@yahoo.com">Email.</a> </p>
+<p>📚 I'm currently learning Nextjs.</p>
+<p>💌 You can reach me <a href="https://twitter.com/Fionnss">@fionnss</a> on twitter. Or by <a href="mailto:fiona.attah@yahoo.com">Email.</a> </p>
 </section>
 <!--
 **fionss/fionss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

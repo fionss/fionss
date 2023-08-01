@@ -1,9 +1,9 @@
 <h1>Hi 👋🏾 I'm Fiona (She/Her)</h1>
 <section>
 <p>👩🏾 I'm a software Developer passionate about web technologies.</p>
-<p>🌎 I'm based in Toronto, Canada.</p>
-<p>👩🏾‍💻 I'm coding in  HTML, CSS, Javascript, React, Tailwind, Express, Nodejs, MongoDB.</p>
-<p>📚 I'm currently learning Nextjs.</p>
+<p>🌎 I live in Toronto, Canada.</p>
+<p>👩🏾‍💻 I'm coding in HTML, CSS, Javascript, React, Tailwind, Express, Nodejs, MongoDB, Nextjs</p>
+<p>📚 I'm currently learning Typescript.</p>
 <p>💌 You can reach me <a href="https://twitter.com/Fionnss">@fionnss</a> on twitter. Or by <a href="mailto:fiona.attah@yahoo.com">Email.</a> </p>
 </section>
 <!--

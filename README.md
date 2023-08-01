@@ -1,6 +1,4 @@
-<main>
 <h1>Hi 👋🏾 I'm Fiona (She/Her)</h1>
-</main>
 <section>
 <p>👩🏾 I'm a software Developer passionate about web technologies.</p>
 <p>🌎 I'm based in Toronto, Canada.</p>

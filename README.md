@@ -4,8 +4,10 @@
 <p>🌎 I live in Toronto, Canada.</p>
 <p>👩🏾‍💻 I'm coding in HTML, CSS, Javascript, React, Tailwind, Express, Nodejs, MongoDB, Nextjs.</p>
 <p>📚 I'm currently learning Typescript.</p>
-<p>💌 You can reach me <a href="https://twitter.com/Fionnss">@fionnss</a> on twitter. Or by <a href="mailto:fiona.attah@yahoo.com">Email.</a> </p>
+<p>💻 I'm looking for a full-time role.</p>
+<p>📬 You can reach me <a href="https://twitter.com/Fionnss">@fionnss</a> on twitter. Or by <a href="mailto:fiona.attah@yahoo.com">Email.</a> </p>
 </section>
+
 <!--
 **fionss/fionss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

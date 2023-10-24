@@ -1,6 +1,6 @@
 <h1>Hi 👋🏾 I'm Fiona (She/Her)</h1>
 <section>
-<p>👩🏾 I'm a software Developer passionate about web technologies.</p>
+<p>👩🏾 I'm a full stack developer.</p>
 <p>🌎 I'm based in Ontario, Canada.</p>
 <p>👩🏾‍💻 I'm coding in HTML, CSS, Javascript, React, Tailwind, Express, Nodejs, MongoDB.</p>
 <p>🌱 I'm currently learning Nextjs, Typescript.</p> 

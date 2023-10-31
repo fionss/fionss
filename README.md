@@ -2,8 +2,8 @@
 <section>
 <p>👩🏾 I'm a full stack developer.</p>
 <p>🌎 I'm based in Ontario, Canada.</p>
-<p>👩🏾‍💻 I'm coding in HTML, CSS, Javascript, React, Tailwind, Express, Nodejs, MongoDB.</p>
-<p>🌱 I'm currently learning Nextjs, Typescript.</p> 
+<p>👩🏾‍💻 I'm coding in HTML, CSS, Javascript, React, Tailwind, Express, Nodejs, MongoDB, Nextjs.</p>
+<p>🌱 I'm currently learning Typescript.</p> 
 <p>📬 You can reach me <a href="https://twitter.com/Fionnss">@fionnss</a> on twitter. Or by <a href="mailto:fiona.attah@yahoo.com">Email.</a> </p>
 </section>
 

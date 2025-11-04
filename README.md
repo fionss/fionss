@@ -1,7 +1,7 @@
 <h1>Hi 👋🏾 I'm Fiona (She/Her)</h1>
 <section>
-<p>👩🏾 I'm a full stack developer.</p>
-<p>👩🏾‍💻 I'm coding in HTML, CSS, Javascript, React, Tailwind, SASS, Express, Nodejs, MongoDB, Nextjs.</p>
+<p>👩🏾 A web developer turned Data Analyst</p>
+<p>👩🏾‍💻 Tools: Excel, SQL, Power BI, Python, Javascript, Mongo DB, Node JS</p>
 
 </section>
 

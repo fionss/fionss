@@ -1,4 +1,4 @@
-<h1>Hi 👋🏾 I'm Fiona (She/Her)</h1>
+<h1>Hi 👋🏾 I'm Fiona </h1>
 <section>
 <p>👩🏾 A Data Analyst </p>
 <p>👩🏾‍💻 Tools: Excel, SQL, Power BI, Python, Javascript, Mongo DB, Node JS</p>

@@ -1,7 +1,17 @@
 <h1>Hi 👋🏾 I'm Fiona </h1>
 <section>
-<p>👩🏾 A Data Analyst </p>
-<p>👩🏾‍💻 Tools: Excel, SQL, Power BI, Python, Javascript, Mongo DB, Node JS</p>
+<p> A Data Analyst </p>
+
+🧠 Tools & Skills  
+• SQL | Power BI | Excel | Python  
+• EDA | ETL | Data Modeling | KPI Reporting  
+• Data Storytelling & Dashboard Design
+
+🌱 Currently working on  
+• Expanding my Power BI dashboards  
+• Strengthening SQL and analytical workflows  
+• Building projects that reflect real business problems
+
 
 </section>
 

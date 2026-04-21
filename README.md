@@ -7,11 +7,6 @@
 • EDA | ETL | Data Modeling | KPI Reporting  
 • Data Storytelling & Dashboard Design
 
-🌱 Currently working on  
-• Expanding my Power BI dashboards  
-• Strengthening SQL and analytical workflows  
-• Building projects that reflect real business problems
-
 
 </section>
 

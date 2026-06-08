@@ -1,11 +1,10 @@
 <h1>Hi 👋🏾 I'm Fiona </h1>
 <section>
-<p> A Data Analyst </p>
+<p> Using data to give key insights and solve business problems. </p>
 
 🧠 Tools & Skills  
 • SQL | Power BI | Excel | Python  
-• EDA | ETL | Data Modeling | KPI Reporting  
-• Data Storytelling & Dashboard Design
+
 
 
 </section>

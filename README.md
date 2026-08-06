@@ -1,6 +1,6 @@
 <h1>Hi 👋🏾 I'm Fiona </h1>
 <section>
-<p> Using data to give key insights and solve business problems. </p>
+<p> A data analyst using data to give key insights and solve business problems. </p>
 
 🧠 Tools & Skills  
 • SQL | Power BI | Excel | Python  

@@ -20,34 +20,14 @@
 * Excel
 * Power Query
 * DAX
-* Pandas
-* NumPy
+  
 
 **Other Tools**
 
 * Git/GitHub
 * HTML/CSS
 * JavaScript
-
----
-
-## 📊 Featured Projects
-
-### 🛒 Online Retail Sales Analysis Dashboard
-
-Power BI dashboard analyzing sales performance, customer behavior, and revenue trends.
-
-**Tools:** Power BI | Excel | DAX
-
-Key areas:
-
-* Revenue analysis
-* Customer segmentation
-* Sales trends
-* KPI reporting
-
-[View Project →](insert-link)
-
+* MongoDB
 
 ---
 
@@ -58,14 +38,6 @@ LinkedIn: https://www.linkedin.com/in/fiona-attah-44814a93/
 
 
 
-🧠 Tools & Skills  
-• SQL | Power BI | Excel | Python  
-
-
-
-</section>
-
-<!--
 **fionss/fionss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

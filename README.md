@@ -53,7 +53,7 @@ Key areas:
 
 ## 📫 Let's Connect
 
-LinkedIn: insert-link
+LinkedIn: https://www.linkedin.com/in/fiona-attah-44814a93/
 
 
 
